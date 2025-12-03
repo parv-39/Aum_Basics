@@ -1,5 +1,0 @@
-print("hello world")
-print(2,4,6)
-print(12*10)
-print(13-14*4+5)
-print("---Your poem here---")
